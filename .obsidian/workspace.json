@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/this/Task.md",
+                "file": "JavaScript/Problem solving.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Task"
+              "title": "Problem solving"
             }
           }
         ]
@@ -93,7 +93,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "JavaScript/this/Task.md",
+                "file": "JavaScript/Problem solving.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -103,7 +103,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки для Task"
+              "title": "Обратные ссылки для Problem solving"
             }
           },
           {
@@ -112,12 +112,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "JavaScript/this/Task.md",
+                "file": "JavaScript/Problem solving.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки из Task"
+              "title": "Исходящие ссылки из Problem solving"
             }
           },
           {
@@ -139,10 +139,10 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "JavaScript/this/Task.md"
+                "file": "JavaScript/Problem solving.md"
               },
               "icon": "lucide-list",
-              "title": "Структура Task"
+              "title": "Структура Problem solving"
             }
           }
         ]
@@ -164,10 +164,11 @@
   },
   "active": "7974afdf900f559c",
   "lastOpenFiles": [
-    "JavaScript/this/this.md",
     "JavaScript/Task for JS.md",
-    "JavaScript/this/Task.md",
+    "JavaScript/Problem solving.md",
     "README.md",
+    "JavaScript/this/Task.md",
+    "JavaScript/this/this.md",
     "Без названия.md",
     "Без названия.canvas",
     "JavaScript/Promises/Task.md",
