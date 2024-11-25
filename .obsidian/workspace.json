@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Problem solving.md",
+                "file": "JavaScript/Формат JSON, метод toJSON/Формат JSON, метод toJSON.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Problem solving"
+              "title": "Формат JSON, метод toJSON"
             }
           }
         ]
@@ -165,16 +165,20 @@
   "active": "7974afdf900f559c",
   "lastOpenFiles": [
     "JavaScript/Task for JS.md",
+    "JavaScript/Формат JSON, метод toJSON/Формат JSON, метод toJSON.md",
+    "JavaScript/Promises/Pasted image 20241112121844.png",
+    "JavaScript/Promises/Task.md",
+    "JavaScript/Promises/Promise.md",
     "JavaScript/Problem solving.md",
-    "README.md",
+    "JavaScript/Deep object copy/Deep object copy.md",
+    "JavaScript/Deep object copy",
+    "JavaScript/Формат JSON, метод toJSON",
     "JavaScript/this/Task.md",
+    "README.md",
     "JavaScript/this/this.md",
     "Без названия.md",
     "Без названия.canvas",
-    "JavaScript/Promises/Task.md",
-    "JavaScript/Promises/Promise.md",
     "JavaScript/this",
-    "JavaScript/Promises/Pasted image 20241112121844.png",
     "Без названия"
   ]
 }
