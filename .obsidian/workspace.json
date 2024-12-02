@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Разное/npm ci.md",
+                "file": "JavaScript/use strict/use strict.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "npm ci"
+              "title": "use strict"
             }
           }
         ]
@@ -164,16 +164,17 @@
   },
   "active": "9f49b9ce4da32ed4",
   "lastOpenFiles": [
-    "Разное/ESET Protect.md",
+    "JavaScript/use strict",
+    "JavaScript/Proxy и Reflect/Proxy и Reflect.md",
+    "JavaScript/use strict/use strict.md",
     "Разное/npm ci.md",
+    "Разное/ESET Protect.md",
     "Разное/Docker/Docker, Docker Compose.md",
     "Разное/Docker",
     "Разное",
-    "JavaScript/Proxy и Reflect/Proxy и Reflect.md",
     "JavaScript/Proxy и Reflect",
     "JavaScript/Babel.md",
     "JavaScript/Формат JSON, метод toJSON/Формат JSON, метод toJSON.md",
-    "JavaScript/Без названия.md",
     "JavaScript/Task for JS.md",
     "JavaScript/Promises/Pasted image 20241112121844.png",
     "JavaScript/Promises/Task.md",
