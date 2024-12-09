@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "0d0470ce4e4cd13a",
+        "id": "65916e77ee7d7ce3",
         "type": "tabs",
         "children": [
           {
-            "id": "f2f70e68fc51096e",
+            "id": "37901c42cebb0a3f",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Итераторы и Генераторы.md",
+                "file": "JavaScript/Переменные/var, let, const.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Итераторы и Генераторы"
+              "title": "var, let, const"
             }
           }
         ]
@@ -162,18 +162,26 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "f2f70e68fc51096e",
+  "active": "37901c42cebb0a3f",
   "lastOpenFiles": [
-    "JavaScript/Babel.md",
-    "JavaScript/Итераторы и Генераторы.md",
-    "Архитектура/MVC/MVC.md",
+    "Архитектура/MVC, MVP, MVVM.md",
+    "Pasted image 20241209131445.png",
+    "Pasted image 20241209131327.png",
+    "JavaScript/Переменные/var, let, const.md",
+    "JavaScript/Переменные",
+    "Pasted image 20241209155220.png",
+    "Pasted image 20241209154118.png",
+    "JavaScript/Deep object copy/Deep object copy.md",
+    "JavaScript/Promises/Promise.md",
+    "JavaScript/this/this.md",
     "JavaScript/Типы данных/Типы данных.md",
+    "JavaScript/Итераторы и Генераторы.md",
+    "JavaScript/Babel.md",
     "Архитектура/MVC/Без названия",
     "Архитектура/MVC",
     "Архитектура",
     "Frontend/Document.md",
     "Frontend/XXS-атака.md",
-    "JavaScript/Deep object copy/Deep object copy.md",
     "Разное/ESET Protect.md",
     "Разное/npm ci.md",
     "Frontend",
@@ -190,12 +198,9 @@
     "JavaScript/Task for JS.md",
     "JavaScript/Promises/Pasted image 20241112121844.png",
     "JavaScript/Promises/Task.md",
-    "JavaScript/Promises/Promise.md",
     "JavaScript/Problem solving.md",
-    "JavaScript/Deep object copy",
     "JavaScript/this/Task.md",
     "README.md",
-    "JavaScript/this/this.md",
     "Без названия.md",
     "Без названия.canvas"
   ]
