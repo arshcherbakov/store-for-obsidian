@@ -85,3 +85,36 @@ const ведёт себя как let, кроме попытки изменит
 
 **Мертвая зона** 
 
+Термин, обозначающий состояние, в котором переменные недоступны. Они находятся в области видимости (scope), но не объявлены (not declared)
+
+```js
+console.log(age);
+
+let age;
+age = 27;
+```
+Переменные объявленные через **`let` и** `**const**` существуют в области TDZ от начала их в области видимости до момента их декларирования (объявления). Переменные, объявленные с использованием `var`, не имеют так называемой временной мёртвой зоны (Temporal Dead Zone, TDZ).
+
+```js
+alert(age) //uderfinded. для var нет понятия TDZ
+var age;
+age = 28;
+```
+
+Примеры, где можно встретить TDZ:
+
+```js
+function createTDZ(a=b, b) {
+}
+createTDZ(undefined, 1);
+//Выведет: Cannot access 'b' before initialization
+//Поскольку при вычислении значения переменной a, идет обращение к переменной b, которая еще не пропарсена движком JS.
+
+```
+
+```js
+let tdzTest = tdzTest;
+//ReferenceError: Cannot access 'tdzTest' before initialization
+var tdzTest = tdzTest; //underfined
+```
+
