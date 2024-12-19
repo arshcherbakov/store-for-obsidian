@@ -119,6 +119,8 @@ export default function Form() {
 
 В версии React 19, `ref` работает как пропс. Не нужно оборачивать в `forwardRef`.
 
+React устанавливает `ref.current` во время фиксации. Перед обновлением DOM, React устанавливает затронутые значения `ref.current` в `null`. После обновления DOM, React немедленно устанавливает их в соответствующие узлы DOM.
+
 Ситуации, в которых использование рефов является оправданным:
 
 - Управление фокусом, выделение текста или воспроизведение медиа.
@@ -127,3 +129,7 @@ export default function Form() {
 - Хранить значение и не вызыввать рендер при изменения этого значения.
   
 https://reactdev.ru/reference/react/useRef/#manipulating-the-dom-with-a-ref
+
+# Манипулирование DOM с помощью Refs
+
+https://reactdev.ru/learn/manipulating-the-dom-with-refs/#best-practices-for-dom-manipulation-with-refs
