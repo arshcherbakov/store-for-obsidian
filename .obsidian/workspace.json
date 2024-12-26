@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "ab0709d44c95ac9b",
+        "id": "8c0ff824e7aa5e46",
         "type": "tabs",
         "children": [
           {
-            "id": "15acf1d2bc365e52",
+            "id": "e7bf930915f23747",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "React/hook/useActionState.md",
+                "file": "React/Батчинг.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "useActionState"
+              "title": "Батчинг"
             }
           }
         ]
@@ -77,8 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 311.5,
-    "collapsed": true
+    "width": 254.5
   },
   "right": {
     "id": "6f6cfa9585151960",
@@ -163,54 +162,54 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "15acf1d2bc365e52",
+  "active": "e7bf930915f23747",
   "lastOpenFiles": [
+    "Разное/Docker/Docker, Docker Compose.md",
+    "React/Батчинг.md",
+    "State Managers/Redux, Mobx.md",
+    "Архитектура/Реактивное программирование.md",
+    "Архитектура/MVC, MVP, MVVM.md",
+    "Архитектура/Flux.md",
+    "State Managers",
+    "Pasted image 20241223164041.png",
+    "Pasted image 20241223165305.png",
+    "Pasted image 20241218164518.png",
+    "Pasted image 20241213112202.png",
+    "Pasted image 20241209154118.png",
+    "Pasted image 20241209131445.png",
+    "React/Жизненые циклы компонента/React.Component.md",
+    "JavaScript/use strict/use strict.md",
+    "JavaScript/this/this.md",
+    "JavaScript/this/Task.md",
+    "JavaScript/Promises/Pasted image 20241112121844.png",
+    "React/Работа react/React Fiber.md",
+    "React/SSR/Общее.md",
+    "React/hook/useRef.md",
     "React/hook/useImperativeHandle.md",
     "React/hook/useActionState.md",
+    "React/API/flushSync.md",
+    "React/Components/<Fragment>.md",
+    "React/Components/<Profiler>.md",
+    "Pasted image 20241224100654.png",
+    "Pasted image 20241224100653.png",
+    "Pasted image 20241224100634.png",
+    "React/Components/<Suspense>.md",
+    "React/SSR",
+    "React/Components",
     "React/hook/useState.md",
-    "React/hook/useRef.md",
-    "React/Работа react/React Fiber.md",
     "React/Работа react/Reconciliation.md",
-    "Pasted image 20241218164518.png",
-    "Pasted image 20241218163949.png",
-    "Pasted image 20241218163829.png",
     "React/Очередь обновлений состояния.md",
-    "Разное/Docker/Docker, Docker Compose.md",
     "JavaScript/Object/Object.md",
     "React/Работа react",
     "JavaScript/Object/Преобразование объектов в примитивы.md",
     "JavaScript/Object/Symbol.md",
     "Разное/npm ci.md",
     "JavaScript/Object/Symbol",
-    "JavaScript/Типы данных/Типы данных.md",
-    "React/Render и Commit.md",
-    "React/Жизненые циклы компонента/React.Component.md",
-    "Pasted image 20241216130714.png",
     "React/Жизненые циклы компонента",
-    "React/API/flushSync.md",
     "React/API",
     "React/Классы",
-    "Frontend/XXS-атака.md",
-    "Pasted image 20241213112202.png",
-    "React/hook/Концепция.md",
-    "Архитектура/MVC, MVP, MVVM.md",
-    "React/JSX.md",
-    "Pasted image 20241211154252.png",
     "React/hook/useState",
     "React/hook",
-    "Без названия.md",
-    "React",
-    "Frontend/Document.md",
-    "JavaScript/Deep object copy/Deep object copy.md",
-    "JavaScript/Итераторы и Генераторы.md",
-    "JavaScript/Переменные/var, let, const.md",
-    "JavaScript/Object",
-    "Pasted image 20241209131445.png",
-    "Pasted image 20241209131327.png",
-    "JavaScript/Переменные",
-    "Pasted image 20241209155220.png",
-    "Pasted image 20241209154118.png",
-    "JavaScript/Promises/Promise.md",
     "Без названия.canvas"
   ]
 }

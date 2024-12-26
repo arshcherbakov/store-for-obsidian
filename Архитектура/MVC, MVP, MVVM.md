@@ -32,3 +32,6 @@ https://assets.bytebytego.com/ByteByteGo-Big-Archive-System-Design-2023.pdf
 
 https://javascript.ru/optimize/antimvc
 
+MVVM - 
+
+Веб-разработчику нужно реализовать слой доступа к базе данных (Model), `state` в качестве ViewModel и функцию `render` в качестве `View`. Модель обеспечивает доступ к API бэкенда и устанавливает `state` (`ViewModel`), используя промисы (Promise and fetch API). Затем `render` (`View`) обеспечивает визуализацию `ViewModel` на веб-страницах.
