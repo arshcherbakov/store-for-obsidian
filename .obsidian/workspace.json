@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "61829cb67aa78aca",
+        "id": "8168fda64df5caa3",
         "type": "tabs",
         "children": [
           {
-            "id": "68ec434a49f112d1",
+            "id": "3b45664effd4882a",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/AbortController.md",
+                "file": "JavaScript/Побитовые сдвиги.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "AbortController"
+              "title": "Побитовые сдвиги"
             }
           }
         ]
@@ -77,7 +77,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 339.5
+    "width": 200
   },
   "right": {
     "id": "6f6cfa9585151960",
@@ -162,14 +162,24 @@
       "command-palette:Открыть палитру команд": false
     }
   },
-  "active": "68ec434a49f112d1",
+  "active": "3b45664effd4882a",
   "lastOpenFiles": [
-    "Архитектура/Реактивное программирование.md",
+    "Pasted image 20250120143415.png",
+    "Pasted image 20250120142153.png",
+    "Pasted image 20250120134829.png",
+    "JavaScript/Побитовые сдвиги.md",
+    "Разное/Без названия.md",
+    "Разное/SameSite.md",
+    "Pasted image 20250120102959.png",
+    "Pasted image 20250120102532.png",
+    "Pasted image 20250120101428.png",
+    "Разное/SDLC.md",
+    "Разное/Docker/Docker, Docker Compose.md",
     "JavaScript/AbortController.md",
+    "Архитектура/Реактивное программирование.md",
     "Тесты/Test double.md",
     "Тесты/Общее.md",
     "видов тестовых объектов.md",
-    "Разное/SDLC.md",
     "sdlc1-571x400.png",
     "Pasted image 20250110131407.png",
     "Тесты.md",
@@ -177,7 +187,6 @@
     "Frontend/XXS-атака.md",
     "Frontend/Document.md",
     "React/Батчинг.md",
-    "Разное/Docker/Docker, Docker Compose.md",
     "State Managers/Redux, Mobx.md",
     "Архитектура/MVC, MVP, MVVM.md",
     "Архитектура/Flux.md",
@@ -185,23 +194,14 @@
     "Pasted image 20241223164041.png",
     "Pasted image 20241223165305.png",
     "Pasted image 20241218164518.png",
-    "Pasted image 20241213112202.png",
-    "Pasted image 20241209154118.png",
-    "Pasted image 20241209131445.png",
     "React/Жизненые циклы компонента/React.Component.md",
     "JavaScript/use strict/use strict.md",
     "JavaScript/this/this.md",
     "JavaScript/this/Task.md",
-    "JavaScript/Promises/Pasted image 20241112121844.png",
     "React/Работа react/React Fiber.md",
     "React/SSR/Общее.md",
     "React/hook/useRef.md",
     "React/hook/useImperativeHandle.md",
-    "React/hook/useActionState.md",
-    "React/API/flushSync.md",
-    "React/Components/<Fragment>.md",
-    "React/Components/<Profiler>.md",
-    "Pasted image 20241224100654.png",
     "React/SSR",
     "React/Components",
     "React/Работа react",
