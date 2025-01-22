@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "JavaScript/Побитовые сдвиги.md",
+                "file": "JavaScript/Сборка мусора.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Побитовые сдвиги"
+              "title": "Сборка мусора"
             }
           }
         ]
@@ -164,17 +164,23 @@
   },
   "active": "3b45664effd4882a",
   "lastOpenFiles": [
+    "JavaScript/Object/Преобразование объектов в примитивы.md",
+    "JavaScript/Сборка мусора.md",
+    "JavaScript/Типы данных/Типы данных.md",
+    "Разное/ESET Protect.md",
+    "Разное/npm ci.md",
+    "Разное/Reast API.md",
+    "Разное/SameSite.md",
+    "Разное/SDLC.md",
+    "Разное/Docker/Docker, Docker Compose.md",
+    "JavaScript/Побитовые сдвиги.md",
     "Pasted image 20250120143415.png",
     "Pasted image 20250120142153.png",
     "Pasted image 20250120134829.png",
-    "JavaScript/Побитовые сдвиги.md",
     "Разное/Без названия.md",
-    "Разное/SameSite.md",
     "Pasted image 20250120102959.png",
     "Pasted image 20250120102532.png",
     "Pasted image 20250120101428.png",
-    "Разное/SDLC.md",
-    "Разное/Docker/Docker, Docker Compose.md",
     "JavaScript/AbortController.md",
     "Архитектура/Реактивное программирование.md",
     "Тесты/Test double.md",
@@ -193,15 +199,9 @@
     "State Managers",
     "Pasted image 20241223164041.png",
     "Pasted image 20241223165305.png",
-    "Pasted image 20241218164518.png",
     "React/Жизненые циклы компонента/React.Component.md",
     "JavaScript/use strict/use strict.md",
     "JavaScript/this/this.md",
-    "JavaScript/this/Task.md",
-    "React/Работа react/React Fiber.md",
-    "React/SSR/Общее.md",
-    "React/hook/useRef.md",
-    "React/hook/useImperativeHandle.md",
     "React/SSR",
     "React/Components",
     "React/Работа react",
